@@ -23,6 +23,8 @@ Tracking the Performance of Ad in Facebook and Instagram for better conversion.
 
    •	Donut Chart - It visualize performance split by target gender and identifies which gender segment contributes most to the selected metric.
    
+   •	Card – It displays Impressions, Clicks, Shares, Comments, Purchases, Engagements, Click Through rate, Purchase Rate, Engagement Rate, Total Budget, Average Total budget and Conversion Rate.
+   
    •	Bar Chart- It visualize engagement across age groups defined in table and highlights which age group is most responsive to campaigns.
    
    •	Filled Map- It displays performance by country from users table and provides geographic view of campaign & engagement.
